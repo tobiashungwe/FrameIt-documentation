@@ -32,11 +32,15 @@ Welcome to the **Project IV AI-IBC-SE** repository. This repository contains all
    
    - List of all deliverables, including the final project document, demo links, and submission deadlines.
 
-<!-- 8. [Evaluation](./docs/evaluation.md)
-   
-   - Criteria for project evaluation and a breakdown of how different aspects are graded. -->
+8. [Roadmap](./project-planning/roadmap.md)
+   - Check out our project roadmap, on github you can find a better overview using the project planner on github. 
 
----
+<!-- 1. [Evaluation](./docs/evaluation.md)
+   
+   - Criteria for project evaluation and a breakdown of how different aspects are graded.  -->
+## Weekly updates
+Here you can find our the weekly updates, to get an idea of the changes and status of the project. [more info](./Weekly-Update/updates.md)
+
 
 ## Getting Started
 
